@@ -29,4 +29,5 @@ links = soup.find_all('a')
 # Imprime os links
 for link in links:
     print(link.get('href'))
+    
 Nesse exemplo, o código acessa a URL especificada, extrai o HTML da página e utiliza o BeautifulSoup para encontrar todos os links na página. Em seguida, ele imprime os links encontrados. Esse é um exemplo simples, mas a técnica pode ser aplicada para coletar uma grande quantidade de informações de diversas páginas da web.
