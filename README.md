@@ -11,7 +11,7 @@ O código deste projeto pode ser facilmente adaptado para extrair outros tipos d
 ## Como usar
 Para utilizar este web scraper, basta clonar este repositório e executar o arquivo scraper.py com o Python. É necessário ter as bibliotecas requests e BeautifulSoup instaladas para que o programa funcione corretamente.
 
-git clone https://github.com/seu-usuario/web-scraper-python.git
+git clone https://github.com/michelprosite/web-scraper-python.git
 cd web-scraper-python
 python scraper.py
 
